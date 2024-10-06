@@ -1,1 +1,13 @@
-hello
+hello this is my help txt
+
+git remote add origin https://github.com/ujval018/daa.git
+git branch -M main
+git push -u origin main
+
+echo "# daa" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ujval018/daa.git
+git push -u origin main
